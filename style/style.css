@@ -1,9 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Handjet:wght@300&family=Tektur:wght@500&display=swap");
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Tektur", cursive;}
+}
 
  .grid{
   background-color: rgba(0, 0, 0, 0.987);
